@@ -688,6 +688,10 @@ ol {
 	font-style: italic;
 }
 
+.ip{
+	font-size: 120px !important;
+}
+
 /*---------------------
 	Footer section
 -----------------------*/
