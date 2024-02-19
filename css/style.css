@@ -19,11 +19,6 @@ h6 {
     font-family: "Josefin Sans", sans-serif;
 }
 
-h4.ah-experience {
-    margin-top: 0;
-    margin-bottom: 0;
-}
-
 h2 {
     font-size: 48px;
 }
@@ -542,6 +537,14 @@ ol {
     color: #808181;
     margin-top: 10px;
     margin-bottom: 45px;
+}
+
+.resume-list h4.ah-experience {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #808181;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .resume-list p {
